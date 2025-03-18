@@ -1,0 +1,6 @@
+Run the App
+Build and run the app on an emulator or physical device.
+
+The app displays a random quote from the predefined list, which updates when you click "Refresh Quote."
+
+This app uses an offline array of quotes. You can expand it by integrating an API (e.g., https://type.fit/api/quotes) for dynamic quotes.

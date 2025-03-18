@@ -32,3 +32,10 @@ Customizable Tones: Choose from a variety of alarm tones.
 Alarm Deletion: Remove alarms before or during their ringing.
 Smooth User Experience: Enjoy a seamless and intuitive app design.
 Never miss an important appointment, meeting, or deadline again. Download TimeTuner and take control of your time!
+
+
+
+
+
+Developer
+These projects were developed by Ayush 
